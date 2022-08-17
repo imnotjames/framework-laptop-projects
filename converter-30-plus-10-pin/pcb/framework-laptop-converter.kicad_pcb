@@ -142,7 +142,7 @@
     (property "TARGET" "FRAMEWORK_LAPTOP")
     (path "/45b0ea5e-db31-4626-9deb-ab5e9ede7987")
     (attr through_hole)
-    (fp_text reference "J1" (at -8.825 -4.3975 -90) (layer "F.SilkS")
+    (fp_text reference "J1" (at -8.825 -4.3975 -90) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9722db92-e317-4e27-b65a-a61a56c8d1bc)
     )
@@ -354,7 +354,7 @@
     (property "TARGET" "NV126B5M-N41")
     (path "/23ca3b84-fefb-4da0-a3fe-ff0302049529")
     (attr through_hole)
-    (fp_text reference "J2" (at -9.218 -3.1064 90) (layer "F.SilkS")
+    (fp_text reference "J2" (at -9.218 -3.1064 90) (layer "F.SilkS") hide
       (effects (font (size 0.64 0.64) (thickness 0.15)))
       (tstamp 85b47e6e-060d-48d7-acbc-a539c49e3fe8)
     )
