@@ -5,6 +5,11 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "40 pin EDP from Framework Laptop to 30 pin LVDS")
+    (rev "4")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (1 "In1.Cu" signal)
