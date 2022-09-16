@@ -7,7 +7,7 @@
   (paper "A4")
   (title_block
     (title "40 pin EDP from Framework Laptop to 30 pin LVDS")
-    (rev "5")
+    (rev "6")
   )
 
   (layers
