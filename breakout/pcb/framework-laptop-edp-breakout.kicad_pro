@@ -408,9 +408,7 @@
           "EDP_LANE2_N",
           "EDP_LANE2_P",
           "EDP_LANE3_N",
-          "EDP_LANE3_P",
-          "USB_D_N",
-          "USB_D_P"
+          "EDP_LANE3_P"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
